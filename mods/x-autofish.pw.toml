@@ -1,0 +1,13 @@
+name = "X+ Autofish (Fabric)"
+filename = "autofish-0.9.10-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee8b3051257797ff75aff8f0cbd6a5c6f1fb95ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4605579
+project-id = 879846
