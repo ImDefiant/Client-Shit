@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
+hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "298ebbb6d67fc63048f15a8102e763bda7652087ebbb0a460c9acd40c7b19ce0"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e160cd9f6d5beb781af38f9b75b88002a5bd65daa566fb3fc3a1e1e036a4c229"
+hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "34d817aa63580593cbb396b292126a39efe48954d6e27d8ba7847a83ab499678"
+hash = "876e48aff4eb83bf2de09697cb5f084c8f36e53ffc9b7587e18b877d8e7c8349"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a743b452f08d80eefc3587070d2c09fe575a8dad634454ce9420c52f54dd72f7"
+hash = "f015362fdc0bdc185deab3a0e7f65c36631bd0398d2fac69ac9ed119d786aa7a"
 metafile = true
 
 [[files]]
