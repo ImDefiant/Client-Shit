@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0fe39c887b5e530dad0838a0236689d8d0ae5951fe665b7945951551a4febc7f"
+hash = "0e0172f9333550f5b8f21d5e0d1c521498ec561e72bb28500bdd75c6bb03ca2d"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "85a8b7a8b7edcf4956d8dfbd690ef76121766691b8e8d1b65cca1734c28b9615"
+hash = "9f62f416e70e150c0fba02e75a89c949a70aa267d1ed0f4473f386481ce5ca47"
 metafile = true
 
 [[files]]
@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "470e5bf7c8d228158620d00e9da85b094002cce7d4429ce1403f3829feef2ba5"
+hash = "c72e9466feda529b2b82dcab1cc3b4b659e6332bdbd576dd067564ac70090f6e"
 metafile = true
 
 [[files]]

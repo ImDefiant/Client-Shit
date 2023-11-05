@@ -1,2 +1,2 @@
 # Client-Shit
-Client Mods we use
+Client Mods I use with packwiz
