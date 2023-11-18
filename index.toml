@@ -21,6 +21,11 @@ hash = "676eb12ebbbe551bca00c9af35ce7eb07f9c4af2482f84b2a46d88187958ef63"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "fceb50162333b2cf2f251af72cc12f1a7657df07f979338dcd6e46b10b993466"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "35561c50fd128cff62577503b1c444753a255a4da0c297877efc71cce716b861"
 metafile = true
 
 [[files]]
@@ -166,8 +176,18 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
+file = "mods/pig-pen-cipher.pw.toml"
+hash = "e97d2fee9004604b792592613a1559e0b0547dd4499695d39342075f56f139f3"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a261f3633b1536d3432124767c62e752af855fa2a833ed29a75324ab90379d9e"
+metafile = true
+
+[[files]]
+file = "mods/runelic.pw.toml"
+hash = "03462e595bdf44957bbaf004c0b275a11d19128df3519b52880ce9179e0f3727"
 metafile = true
 
 [[files]]
